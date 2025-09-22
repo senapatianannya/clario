@@ -9,7 +9,7 @@ import SplashScreen from "@/components/SplashScreen"
 
 export const metadata: Metadata = {
   title: "CLARIO - Master Your Next Interview",
-  description: "AI-powered mock interview platform with real-time feedback and AI assistance. Developed by Ananya, Romiya, Jyoti, Biswajit",
+  description: "AI-powered mock interview platform with real-time feedback and AI assistance. Developed by Anannya, Romiya, Jyoti, Biswajit",
 }
 
 export default function RootLayout({
